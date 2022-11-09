@@ -1,4 +1,4 @@
-- 👨🏻‍🎤 "I am Pedro Silva" `please read this as if you were singing Moonage Daydream`
+- 👨🏻‍🎤 *I am Pedro Silva* `please read this as if you were singing Moonage Daydream`
 - 😍 I'm passionate about History (ancient Greece in particular), Gaming and NFL 🏛 🎮🏈
 - 🌱 I’m currently learning Python, Java, Spring, Spring Boot, mySQL and Git 🙃
 - 😄 Pronouns: Him/His
