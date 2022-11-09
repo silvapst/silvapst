@@ -4,7 +4,8 @@
 - 😄 Pronouns: Him/His
 - 🧙🏻‍♂️ *"A wizard is never late, nor is he early. He arrives precisely when he means to"* 
 
-- 📫 How to reach me - [![LindIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-silva-51b332206/)
+- 📫 How to reach me
+[![LindIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-silva-51b332206/)
 
 <!---
 silvapst/silvapst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
